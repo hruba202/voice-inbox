@@ -1,0 +1,13 @@
+{
+  "domain": "voice_inbox",
+  "name": "Voice Inbox",
+  "version": "0.3.2",
+  "config_flow": true,
+  "dependencies": ["frontend", "http", "media_source", "panel_custom", "persistent_notification"],
+  "documentation": "https://github.com/hruba202/voice-inbox",
+  "issue_tracker": "https://github.com/hruba202/voice-inbox/issues",
+  "codeowners": ["@hruba202"],
+  "requirements": [],
+  "iot_class": "local_push",
+  "integration_type": "service"
+}

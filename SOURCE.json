@@ -1,0 +1,104 @@
+{
+  "prepared_on": "2026-11-08",
+  "source": "etapa1_voice_inbox/custom_components/voice_inbox",
+  "source_version": "0.3.1",
+  "package_version": "0.3.2",
+  "runtime_changes": [],
+  "files": [
+    {
+      "path": "__init__.py",
+      "original_sha256": "51acb8de15dae34eaa944633c42fceec44cebfa7382561e1fe926d6d8d0d6337",
+      "packaged_sha256": "51acb8de15dae34eaa944633c42fceec44cebfa7382561e1fe926d6d8d0d6337",
+      "unchanged": true
+    },
+    {
+      "path": "access.py",
+      "original_sha256": "4ee8bbe4219f3bb979eac24c496cf507c696f3f51a0f747995ac6e6ea8be7bcf",
+      "packaged_sha256": "4ee8bbe4219f3bb979eac24c496cf507c696f3f51a0f747995ac6e6ea8be7bcf",
+      "unchanged": true
+    },
+    {
+      "path": "binary_sensor.py",
+      "original_sha256": "88cb49180a5acf1bec899b7adb804564089a10d3a812ca1a7baae7c4ac44cfb3",
+      "packaged_sha256": "88cb49180a5acf1bec899b7adb804564089a10d3a812ca1a7baae7c4ac44cfb3",
+      "unchanged": true
+    },
+    {
+      "path": "browser.py",
+      "original_sha256": "5220cce5ae92f801d97b4de42bdb276d42f12a3a1fb7aa4e88addba65fd324fd",
+      "packaged_sha256": "5220cce5ae92f801d97b4de42bdb276d42f12a3a1fb7aa4e88addba65fd324fd",
+      "unchanged": true
+    },
+    {
+      "path": "config_flow.py",
+      "original_sha256": "25c1ff273afff1f4605621345cbeca16512439ab86c8dfed409233136611dbe8",
+      "packaged_sha256": "25c1ff273afff1f4605621345cbeca16512439ab86c8dfed409233136611dbe8",
+      "unchanged": true
+    },
+    {
+      "path": "const.py",
+      "original_sha256": "c62c1726a910951f62f64b33695b7ae13a77b5445956cdd16303feb4f695540f",
+      "packaged_sha256": "c62c1726a910951f62f64b33695b7ae13a77b5445956cdd16303feb4f695540f",
+      "unchanged": true
+    },
+    {
+      "path": "coordinator.py",
+      "original_sha256": "be12dbe5be722119439c7864760cd47ca6f4defd24db2b8dbf3f3b125a619b90",
+      "packaged_sha256": "be12dbe5be722119439c7864760cd47ca6f4defd24db2b8dbf3f3b125a619b90",
+      "unchanged": true
+    },
+    {
+      "path": "entity.py",
+      "original_sha256": "fc99d401427d386e6c5e28087c088f18ca5eda9b9845894b3df55d5e1c244411",
+      "packaged_sha256": "fc99d401427d386e6c5e28087c088f18ca5eda9b9845894b3df55d5e1c244411",
+      "unchanged": true
+    },
+    {
+      "path": "http.py",
+      "original_sha256": "b4fd180c46124436961b247f6338263c02e4b2cd749c05748d4aeb0924bd2d4b",
+      "packaged_sha256": "b4fd180c46124436961b247f6338263c02e4b2cd749c05748d4aeb0924bd2d4b",
+      "unchanged": true
+    },
+    {
+      "path": "manifest.json",
+      "original_sha256": "148d5fe4eaad1eff922351853b099ebf303d98163a1aa308063822bb7676104b",
+      "packaged_sha256": "a91798a32e6ba93c08f70fad9d24c3e0d12926bd70ba81f35004b3e3b25bbc05",
+      "unchanged": false
+    },
+    {
+      "path": "recorder.js",
+      "original_sha256": "371fb8918e73c842ef9e83de52a8e4300cd654fb569a1ab9a898e0f1911030f4",
+      "packaged_sha256": "371fb8918e73c842ef9e83de52a8e4300cd654fb569a1ab9a898e0f1911030f4",
+      "unchanged": true
+    },
+    {
+      "path": "sensor.py",
+      "original_sha256": "920de078fa75e5ae86319ba7abb11969944708ae72d58f44e92c4dc87cc7d773",
+      "packaged_sha256": "920de078fa75e5ae86319ba7abb11969944708ae72d58f44e92c4dc87cc7d773",
+      "unchanged": true
+    },
+    {
+      "path": "storage.py",
+      "original_sha256": "4c0e147ee9bf84b575e14d9adeda7bffc7cf7e6e4d691998e7637ee12ff1e3af",
+      "packaged_sha256": "4c0e147ee9bf84b575e14d9adeda7bffc7cf7e6e4d691998e7637ee12ff1e3af",
+      "unchanged": true
+    },
+    {
+      "path": "strings.json",
+      "original_sha256": "0d2fa834e5822b703d011b61a3ea1bfa61f5a23d5d327cf218103ab2fff813a2",
+      "packaged_sha256": "0d2fa834e5822b703d011b61a3ea1bfa61f5a23d5d327cf218103ab2fff813a2",
+      "unchanged": true
+    },
+    {
+      "path": "translations/cs.json",
+      "original_sha256": "d624b52fed62f38d22b652f1e23938bcc813d374ffd316518c1389ae4e5a1a09",
+      "packaged_sha256": "d624b52fed62f38d22b652f1e23938bcc813d374ffd316518c1389ae4e5a1a09",
+      "unchanged": true
+    }
+  ],
+  "additions": [
+    "translations/en.json",
+    "brand/icon.png",
+    "brand/icon@2x.png"
+  ]
+}
