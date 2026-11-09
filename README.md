@@ -92,3 +92,6 @@ Rollback: restore the previous integration files and restart HA. Recorded media 
 ## Development and support
 
 See [DEVELOPMENT.md](DEVELOPMENT.md), [SECURITY.md](SECURITY.md), [CHANGELOG.md](CHANGELOG.md) and [PUBLISHING.md](PUBLISHING.md). Report reproducible problems without upload keys, HA tokens or private recordings. This is a community project, not an official Home Assistant integration.
+
+<img width="1892" height="947" alt="voice01" src="https://github.com/user-attachments/assets/e1538cae-1a12-4de1-88f8-359084dea15c" />
+
