@@ -3,7 +3,8 @@
 Record a short voice message in your browser or upload audio from an ESPHome device, and keep the WAV recording in Home Assistant's media directory.
 
 Created by **hruba202 with assistance from OpenAI ChatGPT / Codex**.
-
+- You can use the voice inbox with this doorbell integration, for which it was created:
+- https://github.com/hruba202/p4-doorbell
 ## Status
 
 Version 0.3.2 packages the existing 0.3.1 integration for HACS / Marketplace. Recording from a browser and an ESP32-P4 has been reported working by the project owner. The new package still needs a clean-install and update test; it is **not yet approved for the public Marketplace catalog**. See [VALIDATION.md](VALIDATION.md).
